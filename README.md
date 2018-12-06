@@ -23,7 +23,7 @@ Vi vælger at tage udgangspunkt i, at vores arbejde koster 500 kr. i timen og me
 
 #
 ### Brugerdokumentation
-Alt behandlet data er frit tilgængeligt i form af grafer (PNG-filer) her på repositoriet. Øverst ligger selve filen vi har brugt til at lave dataene om til grafer (IPYNB-fil) og nederst ligger de ubehandlet datasæt (CSV-filer). Man kan blot klikke på de enkelte filer for at åbne dem.
+Alt behandlet data er frit tilgængeligt i form af grafer (PNG-filer) på vores GitHub repository(https://github.com/BI-Bees/augmented_reality). Øverst ligger selve filen vi har brugt til at lave dataene om til grafer (IPYNB-fil) og nederst ligger de ubehandlet datasæt (CSV-filer). Man kan blot klikke på de enkelte filer for at åbne dem.
 
 #
 ### Datasources
@@ -35,7 +35,7 @@ Vi fandt to datasæt for hhv. USA og Danmark, hvor det er opdelt efter stater/re
 
 #
 ### Teknisk dokumentation
-Vi har lavet vores kode i en Jupyter notebook, som også ligger på dette GitHub repository, sammen med vores to data filer også, som er CSV-filer. Vores Jupyter notebook er bygget op i nogle få celler, hvor de øverste celler er brugt til opsætning af notebooken som bl.a. imports og hentningen af vores CSV-filer. Vi bruger et library i Python som hedder Pandas, som bliver brugt til at sortere datasættene. Derefter bruger et library kaldet Matplotlib, som vi bruger til at oprette grafer ud fra det sorteret data.
+Vi har lavet vores kode i en Jupyter notebook, som også ligger på vores GitHub repository(https://github.com/BI-Bees/augmented_reality), sammen med vores to data filer også, som er CSV-filer. Vores Jupyter notebook er bygget op i nogle få celler, hvor de øverste celler er brugt til opsætning af notebooken som bl.a. imports og hentningen af vores CSV-filer. Vi bruger et library i Python som hedder Pandas, som bliver brugt til at sortere datasættene. Derefter bruger et library kaldet Matplotlib, som vi bruger til at oprette grafer ud fra det sorteret data.
 
 Vores datasæt er bygget op af rækker og kolonner og har samme struktur som et Pandas dataframe og er derfor lette importere. Efter vi har oprettet vores dataframes, henter vi den bestemte data ud, som vi skal bruge. Vi bruger så Pandas masking for at lave et subset af datasættene, som vi benytter til at lave de gældende grafer med Matplotlib.
 
