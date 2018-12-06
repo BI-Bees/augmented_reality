@@ -23,7 +23,7 @@ Vi vælger at tage udgangspunkt i, at vores arbejde koster 500 kr. i timen og me
 
 #
 ### Brugerdokumentation
-Alt behandlet data er frit tilgængeligt i form af grafer (PNG-filer) her:  Øverst ligger selve filen, vi har brugt til at lave dataet om til grader (IPYNB-fil) og nederst ligger de ubehandlet datasæt (CSV-filer).
+Alt behandlet data er frit tilgængeligt i form af grafer (PNG-filer) her på repositoriet. Øverst ligger selve filen vi har brugt til at lave dataene om til grafer (IPYNB-fil) og nederst ligger de ubehandlet datasæt (CSV-filer). Man kan blot klikke på de enkelte filer for at åbne dem.
 
 #
 ### Datasources
