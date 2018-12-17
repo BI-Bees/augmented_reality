@@ -1,4 +1,5 @@
 ## Augmented Reality
+#### Tim Hemmmingsen, Ørvur Guttesen og Laura Hartig
 
 ### Kontrakt
 Vi fik først til opgave at finde data omkring brug af Augmented Reality(AR) inden for uddannelser, som vi så ville bruge til at lave visuel statistik. Det viste sig dog, at være meget svært at finde data vedrørende AR, da det er ret nyt. Vi fandt dog nogle datasæt omkring dødsfald og dødsårsager i hhv. Danmark og USA. Vi blev derefter enige med de I&E studerende om, at bruge det data til at analysere, hvor brug af AR inden for læge/medicin uddannelser kunne være mest effektiv. Vi vil så forsyne dem med grafer/tabeller til at illustrere det fundne data.
